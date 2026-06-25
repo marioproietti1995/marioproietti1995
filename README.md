@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA, technologies, videogames, football, gym, wellness, movies, travelling
 - 🌱 I’m currently learning MongoDB, liquid base, Machine Learning, Docker, NGINX, Angular 20 with SSR support
 - 💞️ This is my personal project: https://myapod.com
-- See my latest work: ristorantelavalletta.it
+- See my latest work: https://ristorantelavalletta.it
 
 <!---
 marioproietti1995/marioproietti1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
